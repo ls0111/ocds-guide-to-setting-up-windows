@@ -1,2 +1,7 @@
-# ocds-guide-to-setting-up-windows
-强迫症的windows设置指南
+# 强迫症的Windows设置指南
+作为一个基层码农，大部分时间都是使用Windows进行开发。但是自己也有一台M1 MBA，设置时参考了[强迫症的Mac设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)。发现并没有一个仓库来记录Windows开发用户设置指南的。也许Windows是大多数人的开发环境，设置起来并没有那么复杂。不过我还是想记录一下自己在使用Windows的一些`强迫症`似的设置，为大家提供一个思路，也给自己多年使用Windows开发做一个总结，也许还能帮助一些志同道合的朋友提升些许工作效率。
+Windows系统中的软件可以说应有尽有，我大概会从如下几个方面进行总结：
+- Windows系统本身的设置
+- 开发工具
+- 其他常用工具
+- 美化（颜值即正义，单独列一章出来😊）
